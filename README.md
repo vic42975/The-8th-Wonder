@@ -10,4 +10,7 @@ Wheel of Lunch
 Manifest
 01:20: minSdkVersion to 11
 
+res/menu/main.xml
+01:49 adding menu action bar
+
 
