@@ -8,7 +8,8 @@ Wheel of Lunch
 01:07: Erik is tired
 
 Manifest
-01:20: minSdkVersion to 11
+01:20 minSdkVersion to 11
+01:55 minSdkVersion to 16
 
 res/menu/main.xml
 01:49 adding menu action bar
